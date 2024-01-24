@@ -1,0 +1,9 @@
+Blackjack Pseudocode:
+
+1. ADD the two card values in hand.
+2. SET sum to the two added numbers.
+3. WHILE sum <= 17
+   Draw a card.
+   Add the value of drawn card to sum.
+   ENDWHILE
+   

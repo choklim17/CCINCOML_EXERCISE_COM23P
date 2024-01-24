@@ -1,0 +1,8 @@
+Odd and Even Psuedocode:
+
+1. num <- User Input
+2. IF the remainder of num/2 is equals to 0 THEN
+   DISPLAY number is even
+   END IF
+3. ELSE
+   DISPLAY number is odd
